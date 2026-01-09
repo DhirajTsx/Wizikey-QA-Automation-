@@ -34,7 +34,7 @@ Before running the tests, ensure you have the following installed:
    ```
 2. **Install Dependencies**
    ```bash
-   npm install or npm i
+   npm install 
    ```
 3. **Install PlayWright**
    ```bash
